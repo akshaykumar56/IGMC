@@ -5,7 +5,7 @@ function Login() {
     localStorage.setItem('A',1)
   }
   return (
-    <div className="Login" style={{backgroundColor:'#C3E7F5',height:'90vh'}}>
+    <div className="Login" style={{backgroundColor:'#F6F9FF',height:'90vh'}}>
       <div style={{height:'100%',display:'flex',flexDirection:'row'}}>
       <div style={{width:'60%',height:'100%',display:'flex',justifyContent:'center',alignItems:'center',padding:'10px 20px'}}>
       <div style={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center'}}>

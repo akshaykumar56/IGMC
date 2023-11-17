@@ -19,7 +19,7 @@ function Main() {
     <>
     <Router>
     
-    <div className='Main' style={{backgroundColor:'#C3E7F5',height:'90vh',display:'flex',flexDirection:'row'}}>
+    <div className='Main' style={{backgroundColor:'#F6F9FF',height:'90vh',display:'flex',flexDirection:'row'}}>
     <div style={{height:'100%',width:'15%',backgroundColor:'white',padding:'10px 10px',boxShadow:'2px 6px 4px 2px grey'}}>
         <div style={{margin:'10px 0px'}}>
             <div style={{display:'flex',justifyContent:'flex-start',fontFamily:'Open Sans',fontSize:'11px',fontWeight:'600',color:'#899BBD'}}>TRACK</div>
